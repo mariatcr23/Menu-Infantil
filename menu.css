@@ -1,4 +1,5 @@
 
+
 table {
     border-collapse: collapse;
     width: 60%;
@@ -23,3 +24,19 @@ th {
     height: 50px;
     text-align: left;
 }
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+h1{
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    color: #3b3b3b;
+
+}
+
